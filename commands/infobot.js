@@ -10,7 +10,7 @@ module.exports.run = async (client, message, msg, args) => {
   .setTitle("Bot Information")
     .setColor("RANDOM")
     .setDescription("Shows the bot's information")
-    .addField("Developer/Owner:","Itz_Someone!#5148")
+    .addField("Developer/Owner:","https://github.com/yggdrasilTOXIC/ = Toxic 音楽#1207")
     .addField("Date Released:","N/A (still to come!)")
     .addField("Language Created in:","Was Created in discord.js")
     .addField("Bot is currently in:", client.guilds.size + " Servers!")
